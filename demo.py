@@ -1,5 +1,3 @@
-"""Dummy challenge for Kitt Demo"""
-
 
 
 def circle_area(radius):
