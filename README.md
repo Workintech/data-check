@@ -25,4 +25,4 @@ git add demo.py
 git commit --message "Solved the first challenge of the workintech :)"
 git push origin master
 ```
-
+## Tamamlandı 🎉
